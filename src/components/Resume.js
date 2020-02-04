@@ -79,7 +79,7 @@ export default  class Resume extends Component {
                  <li>HTML5 and CSS</li>
                </ul>
                <h1>Tools and Methodologies:</h1>
-               <ul>
+               <ul> 
                  <li>Github</li>
                  <li>Agile Development Practices</li>
                  <li>Pair Programming</li>
