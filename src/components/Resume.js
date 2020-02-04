@@ -67,28 +67,25 @@ export default  class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
+                <h1>Languages and Frameworks:</h1>
+               <ul>
+                 <li>Ruby (an Object-Oriented programming)</li>
+                 <li>JavaScript (ES6)</li>
+                 <li>ReactJS and Redux</li>
+                 <li>Sinatra (a Ruby DSL)</li>
+                 <li>Ruby on Rails (as a full-stack and API-only framework</li>
+                 <li>MVC Software Architecture</li>
+                 <li>Test-writing (RSpec framework for Ruby, Jest/Enzyme for ReactJS)</li>
+                 <li>HTML5 and CSS</li>
+               </ul>
+               <h1>Tools and Methodologies:</h1>
+               <ul>
+                 <li>Github</li>
+                 <li>Agile Development Practices</li>
+                 <li>Pair Programming</li>
+               </ul>
 
-               <p>
-               {resumeData.skillsDescription}
-               </p>
-
-   				<div className="bars">
-
-   				   <ul className="skills">
-                {
-                  resumeData.skills && resumeData.skills.map((item) => {
-                    return(
-                      <li>
-                      <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-                      </span><em>{item.skillname}</em>
-                      </li>
-                    )
-                  })
-                }
-
-   					</ul>
-
-   				</div>
+              
 
    			</div>
 

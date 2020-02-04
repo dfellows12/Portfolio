@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Fullstack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " Recently, I've been focusing on my front end skills, building projects with React and Redux. looking for new opportunities to learn.",
+    "roleDescription": " Recently, I've been focusing on my front end skills, building projects with React and Redux. I am a life long learner and am always looking for opportunities to implement new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,7 +18,7 @@ let resumeData = {
         },
       
       ],
-    "aboutme":"I recently .",
+    "aboutme":"I recently moved to NYC and transitioned to a career in Software Engineering.  ",
     "address":"New York, NY",
     "website":"https://rbhatia46.github.io",
     "education":[
@@ -37,18 +37,16 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"MOM's Organic Market",
+        "specialization":"Operations manager",
+        "MonthOfLeaving":"2016-2019",
+        "Achievements":"Acted as team leader to 90+ employees in a fast paced, professional environment. Supervised every aspect of running a progressive, modern natural foods market. Streamlined procedures to increase job efficiency with continuously updating various project management tools. Increased revenues by meeting sales goals, promoting company sales initiatives, and setting realistic and obtainable targets for each associate.Hired, trained, and supervised department managers, set performance goals, resolved employee conflicts, and encouraged teamwork"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"MOM's Organic Market",
+        "specialization":"Produce Manager",
+        "MonthOfLeaving":"2012-2016",
+        "Achievements":"Day to day tasks ranged from meeting with the local mayor to promote sustainable business to visiting the Lancaster County Amish community to develop vendor relations. While in this leadership role at various locations I implemented many strategies to increase profitability and provide customers with the finest products available. In my first year as manager I significantly raised sales, reduced product loss 6%, and trained team members to create a lasting impact on the business."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -60,8 +58,29 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"ReactJS and Redux"
+      },
+      {
+        "skillname":"Ruby (and Object Oriented Programming"
+      },
+      {
+        "skillname":"Sinatra (a Ruby DSL)"
+      },
+      {
+        "skillname":"Ruby on Rails (as a full-stack and API-only framework)"
+      },
+      {
+        "skillname":"MVC Software Architecture"
+      },
+      {
+        "skillname":"SQL & PostgreSQL"
+      },
+      {
+        "skillname":"Javascript (ES6)"
+      },
+      {
+        "skillname":"Test-writing (RSpec framework for Ruby, Jest/Enzyme for ReactJS)"
+      },
     ],
     "portfolio":[
       {
