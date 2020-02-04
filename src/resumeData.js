@@ -1,44 +1,38 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://lh3.googleusercontent.com/6YYymDycY9RrbvGMiwXmv_XaD0quQ04gvASpT0txPoaaqbADPIy602ZjxMxGCwFLtlHQM2wwpVNOW6-x2KR9gtpmp63nn75H48hddLhawJMIqKZvsSwzfULrXV-hmfxF3dfmQhvKOXzQucZMDXkt5nLl2R0QJ2EC6fJH9N1zIipEWyb-cI5WlacV0i3uKKWysa6YgQS786M9ouyzPx1gqdBxNcQcnK_eh7zFnp8_hK9xegoGtZ5JCrSk00YuwvLFeWqvddnFHPIXIXhIy-vLwfADE456EXAqP5G4bMnpTDBnr2a8UC71V0g62L3qdpE1mH_ofwpDwk5YRLuo7WWnZL4nhhvUBafJaI-dyvgYUQ-pYcRtI3qsCTmUNEh85Vhqmu8qHMe1_wsabur5NOceRmbMyNsjNqEXfLD3YOtCRuL6_pwhtNHex6lGth6_BU5AgzeXm1wlXa0MpxWBVH2P4kGue4jQ563GrNcA0vXNxSuskus3TZptyt3j2o2xchyjQ8ZyYdGUSazDqNSoGaK3VvdCEzn1Jboao0mP-0eSRStYnhRSo0tyJvwnDmo_MPoNHPzMwYiwg1wYG-WlCk8nKtxySbbRuQ9Gh1S1s55EpxemwzG1A2xlEgaj1Jh0Uv65aLtFPJkRpnH6eWtkLGonrhNuOObA0Il2RZ1yuUOwK-ILPWmlNuwYIg=w600-h568-no",
+    "name": "David Fellows",
+    "role": "Fullstack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " Recently, I've been focusing on my front end skills, building projects with React and Redux. looking for new opportunities to learn.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/david-fellows-nyc/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Case757",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+      
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I recently .",
+    "address":"New York, NY",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Flatiron School",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"January",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Maryland",
+        "specialization":"Bachelor of Arts - History",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2014",
       }
     ],
     "work":[
@@ -71,25 +65,21 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
+        "name":"Green Space",
+        "description":"Social app for tracking, caring for, and sharing houseplants",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Night Life",
+        "description":"Event manager app for following your favorite artists",
         "imgurl":"images/portfolio/project.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
+        "name":"Friend Finder",
+        "description":"Event manager app for following your favorite artists",  
         "imgurl":"images/portfolio/project2.png"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+    
     ],
     "testimonials":[
       {
