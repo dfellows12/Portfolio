@@ -5,6 +5,38 @@ export default  class Resume extends Component {
     return (
       <section id="resume">
 
+
+<div className="row skill education">
+
+<div className="three columns header-col">
+   <h1><span>Skills</span></h1>
+</div>
+
+<div className="nine columns main-col">
+    <h1>Languages and Frameworks:</h1>
+   <ul>
+     <li>Ruby (an Object-Oriented programming)</li>
+     <li>JavaScript (ES6)</li>
+     <li>ReactJS and Redux</li>
+     <li>Sinatra (a Ruby DSL)</li>
+     <li>Ruby on Rails (as a full-stack and API-only framework</li>
+     <li>MVC Software Architecture</li>
+     <li>Test-writing (RSpec framework for Ruby, Jest/Enzyme for ReactJS)</li>
+     <li>HTML5 and CSS</li>
+   </ul>
+   <h1>Tools and Methodologies:</h1>
+   <ul> 
+     <li>Github</li>
+     <li>Agile Development Practices</li>
+     <li>Pair Programming</li>
+   </ul>
+
+  
+
+</div>
+
+</div>
+
          <div className="row education">
 
             <div className="three columns header-col">
@@ -31,7 +63,7 @@ export default  class Resume extends Component {
               }
             </div>
          </div>
-        <div className="row work">
+        <div className="row skill">
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
             </div>
@@ -60,36 +92,6 @@ export default  class Resume extends Component {
          </div>
 
 
-         <div className="row skill">
-
-            <div className="three columns header-col">
-               <h1><span>Skills</span></h1>
-            </div>
-
-            <div className="nine columns main-col">
-                <h1>Languages and Frameworks:</h1>
-               <ul>
-                 <li>Ruby (an Object-Oriented programming)</li>
-                 <li>JavaScript (ES6)</li>
-                 <li>ReactJS and Redux</li>
-                 <li>Sinatra (a Ruby DSL)</li>
-                 <li>Ruby on Rails (as a full-stack and API-only framework</li>
-                 <li>MVC Software Architecture</li>
-                 <li>Test-writing (RSpec framework for Ruby, Jest/Enzyme for ReactJS)</li>
-                 <li>HTML5 and CSS</li>
-               </ul>
-               <h1>Tools and Methodologies:</h1>
-               <ul> 
-                 <li>Github</li>
-                 <li>Agile Development Practices</li>
-                 <li>Pair Programming</li>
-               </ul>
-
-              
-
-   			</div>
-
-         </div>
 
       </section>
     );

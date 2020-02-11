@@ -83,12 +83,13 @@ let resumeData = {
       },
     ],
     "portfolio":[
-      {
+      { 
         "name":"Green Space",
         "description":"Social app for tracking, caring for, and sharing houseplants",
         "imgurl":"https://i.imgur.com/8ek0oG5.jpg"
       },
       {
+ 
         "name":"Night Life",
         "description":"Event manager app for following your favorite artists",
         "imgurl":"https://i.imgur.com/OrSzWtd.jpg"
