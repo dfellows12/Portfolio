@@ -18,7 +18,7 @@ let resumeData = {
         },
       
       ],
-    "aboutme":"I recently moved to NYC and transitioned to a career in Software Engineering.  ",
+    "aboutme":"I recently moved to NYC and transitioned to a career in Software Engineering. With a background in operations management I bring strong team-building, communication, client relations, and problem solving skills. I'm passionate about finding creative solutions to difficult problems. Seeing projects grow from conception to deployment brings me satisfaction. In my free time I enjoy cooking, travelling, and supporting local music artists through lighting production.",
     "address":"New York, NY",
     "website":"https://rbhatia46.github.io",
     "education":[
@@ -86,17 +86,17 @@ let resumeData = {
       {
         "name":"Green Space",
         "description":"Social app for tracking, caring for, and sharing houseplants",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"https://i.imgur.com/8ek0oG5.jpg"
       },
       {
         "name":"Night Life",
         "description":"Event manager app for following your favorite artists",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"https://i.imgur.com/OrSzWtd.jpg"
       },
       {
         "name":"Friend Finder",
         "description":"Event manager app for following your favorite artists",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"https://i.imgur.com/ccPXW7M.jpg"
       },
     
     ],
