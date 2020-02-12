@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://lh3.googleusercontent.com/6YYymDycY9RrbvGMiwXmv_XaD0quQ04gvASpT0txPoaaqbADPIy602ZjxMxGCwFLtlHQM2wwpVNOW6-x2KR9gtpmp63nn75H48hddLhawJMIqKZvsSwzfULrXV-hmfxF3dfmQhvKOXzQucZMDXkt5nLl2R0QJ2EC6fJH9N1zIipEWyb-cI5WlacV0i3uKKWysa6YgQS786M9ouyzPx1gqdBxNcQcnK_eh7zFnp8_hK9xegoGtZ5JCrSk00YuwvLFeWqvddnFHPIXIXhIy-vLwfADE456EXAqP5G4bMnpTDBnr2a8UC71V0g62L3qdpE1mH_ofwpDwk5YRLuo7WWnZL4nhhvUBafJaI-dyvgYUQ-pYcRtI3qsCTmUNEh85Vhqmu8qHMe1_wsabur5NOceRmbMyNsjNqEXfLD3YOtCRuL6_pwhtNHex6lGth6_BU5AgzeXm1wlXa0MpxWBVH2P4kGue4jQ563GrNcA0vXNxSuskus3TZptyt3j2o2xchyjQ8ZyYdGUSazDqNSoGaK3VvdCEzn1Jboao0mP-0eSRStYnhRSo0tyJvwnDmo_MPoNHPzMwYiwg1wYG-WlCk8nKtxySbbRuQ9Gh1S1s55EpxemwzG1A2xlEgaj1Jh0Uv65aLtFPJkRpnH6eWtkLGonrhNuOObA0Il2RZ1yuUOwK-ILPWmlNuwYIg=w600-h568-no",
     "name": "David Fellows",
-    "role": "Fullstack Web Developer",
+    "role": "Fullstack Web Developer with a background in Rails and React",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " Recently, I've been focusing on my front end skills, building projects with React and Redux. I am a life long learner and am always looking for opportunities to implement new technologies.",
+    "roleDescription": " Recently focusing on front end skills, mastering CSS and exploring design. Life long learner looking for opportunities to implement new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,7 +18,7 @@ let resumeData = {
         },
       
       ],
-    "aboutme":"I recently moved to NYC and transitioned to a career in Software Engineering. With a background in operations management I bring strong team-building, communication, client relations, and problem solving skills. I'm passionate about finding creative solutions to difficult problems. Seeing projects grow from conception to deployment brings me satisfaction. In my free time I enjoy cooking, travelling, and supporting local music artists through lighting production.",
+    "aboutme":"After years of dreaming and dabbling in coding, I finally took the jump and recently moved to NYC to change careers. With a background in operations management, I bring strong team-building, communication, and client relations skills. I love building projects and finding creative solutions to the problems that come up. In my free time I enjoy cooking, travelling, and supporting local music artists through lighting production.",
     "address":"New York, NY",
     "website":"https://rbhatia46.github.io",
     "education":[
