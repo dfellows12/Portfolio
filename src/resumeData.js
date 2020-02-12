@@ -40,7 +40,7 @@ let resumeData = {
         "CompanyName":"MOM's Organic Market",
         "specialization":"Operations manager",
         "MonthOfLeaving":"2016-2019",
-        "Achievements":"Acted as team leader to 90+ employees in a fast paced, professional environment. Supervised every aspect of running a progressive, modern natural foods market. Streamlined procedures to increase job efficiency with continuously updating various project management tools. Increased revenues by meeting sales goals, promoting company sales initiatives, and setting realistic and obtainable targets for each associate.Hired, trained, and supervised department managers, set performance goals, resolved employee conflicts, and encouraged teamwork"
+        "Achievements":"Supervised every aspect of running a progressive and modern natural foods market, streamlining procedures to increase job efficiency. Acting as team leader to 90+ employees in a fast paced professional environment, I implemented and updated project management tools continuously. Increased revenues by meeting sales goals, promoting company sales initiatives, and setting realistic and obtainable targets for each associate.Hired, trained, and supervised department managers, set performance goals, resolved employee conflicts, and encouraged teamwork"
       },
       {
         "CompanyName":"MOM's Organic Market",
@@ -61,7 +61,7 @@ let resumeData = {
         "skillname":"ReactJS and Redux"
       },
       {
-        "skillname":"Ruby (and Object Oriented Programming"
+        "skillname":"Ruby (and Object Oriented Programming)"
       },
       {
         "skillname":"Sinatra (a Ruby DSL)"
