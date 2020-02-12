@@ -18,7 +18,7 @@ let resumeData = {
         },
       
       ],
-    "aboutme":"After years of dreaming and dabbling in coding, I finally took the jump and recently moved to NYC to change careers. With a background in operations management, I bring strong team-building, communication, and client relations skills. I love building projects and finding creative solutions to the problems that come up. In my free time I enjoy cooking, travelling, and supporting local music artists through lighting production.",
+    "aboutme":"After years of dreaming and practicing coding, I finally took the jump and recently moved to NYC to change careers. With a background in operations management, I bring strong team-building, communication, and client relations skills. I love building projects and finding creative solutions to the problems that come up. In my free time I enjoy cooking, travelling, and supporting local music artists through lighting production.",
     "address":"New York, NY",
     "website":"https://rbhatia46.github.io",
     "education":[
