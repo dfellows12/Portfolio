@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fff;;
 }
 #about .profile-pic {
    position: relative;
@@ -260,12 +260,25 @@ ul#nav li.current a { color: #F06000; }
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
+.skill {
+   border-bottom: 1px solid #E8E8E8;
 
-.education, .work {
+}
+.work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
 }
+
+.education {
+   margin-top: 48px;
+}
+
+.skill {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+
+}
+
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
@@ -715,6 +728,7 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: #EBEEEE;
 }
 #contact .header-col { padding-top: 6px; }
 
