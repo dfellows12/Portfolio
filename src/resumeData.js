@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://lh3.googleusercontent.com/6YYymDycY9RrbvGMiwXmv_XaD0quQ04gvASpT0txPoaaqbADPIy602ZjxMxGCwFLtlHQM2wwpVNOW6-x2KR9gtpmp63nn75H48hddLhawJMIqKZvsSwzfULrXV-hmfxF3dfmQhvKOXzQucZMDXkt5nLl2R0QJ2EC6fJH9N1zIipEWyb-cI5WlacV0i3uKKWysa6YgQS786M9ouyzPx1gqdBxNcQcnK_eh7zFnp8_hK9xegoGtZ5JCrSk00YuwvLFeWqvddnFHPIXIXhIy-vLwfADE456EXAqP5G4bMnpTDBnr2a8UC71V0g62L3qdpE1mH_ofwpDwk5YRLuo7WWnZL4nhhvUBafJaI-dyvgYUQ-pYcRtI3qsCTmUNEh85Vhqmu8qHMe1_wsabur5NOceRmbMyNsjNqEXfLD3YOtCRuL6_pwhtNHex6lGth6_BU5AgzeXm1wlXa0MpxWBVH2P4kGue4jQ563GrNcA0vXNxSuskus3TZptyt3j2o2xchyjQ8ZyYdGUSazDqNSoGaK3VvdCEzn1Jboao0mP-0eSRStYnhRSo0tyJvwnDmo_MPoNHPzMwYiwg1wYG-WlCk8nKtxySbbRuQ9Gh1S1s55EpxemwzG1A2xlEgaj1Jh0Uv65aLtFPJkRpnH6eWtkLGonrhNuOObA0Il2RZ1yuUOwK-ILPWmlNuwYIg=w600-h568-no",
     "name": "David Fellows",
-    "role": "Fullstack Web Developer with a background in Rails and React",
+    "role": "A full stack developer with 2+ years experience in JavaScript technologies across the whole stack",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " Recently focusing on front end skills, mastering CSS and exploring design. Life long learner looking for opportunities to implement new technologies.",
+    "roleDescription": " Skilled in designing, developing, and testing web-based applications incorporating a range of technologies. Focused on optimization of front-end systems for fast delivery, accessibility, and reusability.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -39,14 +39,8 @@ let resumeData = {
       {
         "CompanyName":"MOM's Organic Market",
         "specialization":"Operations manager",
-        "MonthOfLeaving":"2016-2019",
+        "MonthOfLeaving":"2012-2019",
         "Achievements":"Supervised every aspect of running a progressive and modern natural foods market, streamlining procedures to increase job efficiency. Acting as team leader to 90+ employees in a fast paced professional environment, I implemented and updated project management tools continuously. Increased revenues by meeting sales goals, promoting company sales initiatives, and setting realistic and obtainable targets for each associate.Hired, trained, and supervised department managers, set performance goals, resolved employee conflicts, and encouraged teamwork"
-      },
-      {
-        "CompanyName":"MOM's Organic Market",
-        "specialization":"Produce Manager",
-        "MonthOfLeaving":"2012-2016",
-        "Achievements":"Day to day tasks ranged from meeting with the local mayor to promote sustainable business to visiting the Lancaster County Amish community to develop vendor relations. While in this leadership role at various locations I implemented many strategies to increase profitability and provide customers with the finest products available. In my first year as manager I significantly raised sales, reduced product loss 6%, and trained team members to create a lasting impact on the business."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -59,6 +53,9 @@ let resumeData = {
       },
       {
         "skillname":"ReactJS and Redux"
+      },
+      {
+        "skillname":"NextJS"
       },
       {
         "skillname":"Ruby (and Object Oriented Programming)"
@@ -83,6 +80,11 @@ let resumeData = {
       },
     ],
     "portfolio":[
+      { 
+        "name":"Haiku",
+        "description":"Marketing project that allows users to finish eachother's haikus",
+        "imgurl":"https://ci5.googleusercontent.com/proxy/J_FrJa2d9yQOGAXJoI3SO54BD8EMwxYqVD5V8auculSkzNEovAQy2_8xLakqe6sxihwj-uwnH-1usK3SxjXbOsHOvwchyNkmKhaTDTFB5dDF81scdOWcRvR6QKiQoQ=s0-d-e1-ft#https://res.cloudinary.com/baron-fig/image/upload/v1581349753/haiku_335.jpg"
+      },
       { 
         "name":"Green Space",
         "description":"Social app for tracking, caring for, and sharing houseplants",
