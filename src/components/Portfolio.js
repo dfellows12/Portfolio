@@ -7,12 +7,12 @@ export default class Porfolio extends Component {
     return (
       <section id="portfolio">
        {/* reconfigure modals to work with the resume jsondata and a .map */}
-       <div id="modal-0" className="modal-center mfp-hide row">
+       <div id="modal-0" className="modal-center mfp-hide haiku-row">
           <div className="five columns modal-video">
           </div>
           <img src="https://ci5.googleusercontent.com/proxy/J_FrJa2d9yQOGAXJoI3SO54BD8EMwxYqVD5V8auculSkzNEovAQy2_8xLakqe6sxihwj-uwnH-1usK3SxjXbOsHOvwchyNkmKhaTDTFB5dDF81scdOWcRvR6QKiQoQ=s0-d-e1-ft#https://res.cloudinary.com/baron-fig/image/upload/v1581349753/haiku_335.jpg"/>
           <h3 className="video-text">Haiku Project<span className="modal-links"> • <a href="https://haiku.baronfig.com" target="_blank" rel="noopener noreferrer">website</a> </span></h3>
-          <div><p>This is a plantcare and notekeeping app. Never forget to water or fertilize your plants again! Built using a custom Ruby on Rails backend API, and ReactJS frontend, utilizing Redux for statemanagement.</p>
+          <div>
           
           </div></div>
        <div id="modal-1" className="modal-center mfp-hide row">
@@ -39,7 +39,6 @@ export default class Porfolio extends Component {
               return(
                 
                 <div className="columns portfolio-item">
-                  <div className="item-wrap"></div>
                   <div className="item-wrap">
                     <a href={`#modal-${index}`}>
                       <img src={`${item.imgurl}`} className="item-img"/>

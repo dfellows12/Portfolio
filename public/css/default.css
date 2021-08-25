@@ -597,6 +597,16 @@ input[type="checkbox"] { display: inline; }
    max-width: 1020px;
    margin: 0 auto;
 }
+
+.haiku-row {
+   max-width: 350px;
+   margin: 0 auto;
+   width: 96%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
 
